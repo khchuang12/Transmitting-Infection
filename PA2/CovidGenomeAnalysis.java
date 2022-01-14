@@ -1,8 +1,4 @@
 /**
- * Name:Kody Chuang
- * ID: A16350587
- * Email: khchuang@ucsd.edu
- * Sources Used: "None"
  * This code aims to get a simple analysis of the DNA strand and find what
  * bases are on the other strand of DNA.
  * We want to count the number of times the 'T' base appears on the DNA.
